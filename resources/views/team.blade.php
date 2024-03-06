@@ -343,7 +343,7 @@
           <span class="profile-span"></span>
           <span class="profile-span"></span>
           <div class="profile-text">
-            <h2>Hi, I'm Yuen Khai</h2>
+            <h2>Hi, I'm Amirah</h2>
             <p>Core Member</p>
           </div>
         </div>
